@@ -1,0 +1,6 @@
+name = input("enter your name:")
+family =input("enter your family:")
+age = float(input("enter your age:"))
+city = input("enter your city:")
+average = float(input("enter your average:"))
+print("hello" , name, family, "you are", age, "years old", "you live in", city, "and your average is" , average)
